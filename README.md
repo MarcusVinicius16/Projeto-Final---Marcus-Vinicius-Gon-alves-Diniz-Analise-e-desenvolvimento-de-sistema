@@ -212,5 +212,6 @@ FIM<br>
         <br>                           └───────────────────────────┘
     </p>
     </div>
+    <img src="fluxograma.png">
 </body>
 </html>
